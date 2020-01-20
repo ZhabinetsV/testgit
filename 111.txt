@@ -1,0 +1,3 @@
+git remote add origin https://github.com/ZhabinetsV/testgit.git
+git push -u origin master
+
