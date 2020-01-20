@@ -1,3 +1,7 @@
+git init
+git status
+git add .
+git commit -m "test commit"
 git remote add origin https://github.com/ZhabinetsV/testgit.git
 git push -u origin master
 
